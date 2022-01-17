@@ -1,7 +1,7 @@
-// from data.js
+// import data from data.js
 const tableData = data;
 
-// get table references
+// get table references (HTML table using d3)
 var tbody = d3.select("tbody");
 
 function buildTable(data) {
@@ -22,4 +22,3 @@ function buildTable(data) {
     });
   });
 }
-
