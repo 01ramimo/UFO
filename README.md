@@ -2,8 +2,8 @@
 
 ### Overview
 
-The purpose of this analysis is to create a webpage that provides in-depth information on UFO sightings. In addition, the webpage contains a table with multiple filtered criteria for the users to access.
-Using HTML, CSS and JavaScript, the following were performed:
+The purpose of this analysis is to create a webpage that provides in-depth information on UFO sightings. In addition, the webpage contains a table with multiple filtered criteria for the users to access.Using HTML, CSS and JavaScript, the following were performed:
+
 •         HTML to create the webpage
 •         CSS to format the webpage
 •         The webpage filters were controlled through JavaScript
