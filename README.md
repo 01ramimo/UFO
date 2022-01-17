@@ -22,8 +22,8 @@ Depicted below is a display/layout of the website and on the left-hand side is a
 This webpage is user friendly with the multiple criteria search filter, which is important, however, there are a couple of drawbacks such as validation of the sightings. Hence, a recommendation to help improve the website would be as follows:
 
 1.	To help with validation of the UFO sightings, a dichotomous question should be added to the webpage asking the webpage visitor the following: “Have you personally witnessed a UFO? “yes” or “no”.
-2.	
-3.	Have data that includes the number of people with the same sighting.
-4.	
-5.	Add a drop-down menu for some filters such as the comment section for more specificity.
+
+2.	Have data that includes the number of people with the same sighting.
+
+3.	Add a drop-down menu for some filters such as the comment section for more specificity.
 
